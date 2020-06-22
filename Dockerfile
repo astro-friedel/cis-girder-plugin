@@ -1,4 +1,4 @@
-FROM girder/girder:2.3.0
+FROM girder/girder:3.1.0
 
 ARG PLUGIN_NAME="cis"
 
